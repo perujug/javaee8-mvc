@@ -1,0 +1,21 @@
+== [Adopt-a-JSR] MVC 1.0
+
+* http://download.oracle.com/otndocs/jcp/mvc-1-edr2-spec/index.html[Specification]
+
+=== Maven Dependency
+
+[source, xml]
+----
+<dependency>
+  <groupId>org.glassfish.ozark</groupId>
+  <artifactId>ozark</artifactId>
+  <version>1.0.0-m02</version>
+</dependency>
+----
+
+=== Gradle Dependency
+
+[source, groovy]
+----
+compile `org.glassfish.ozark:ozark:1.0.0-m02`
+----

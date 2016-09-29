@@ -1,5 +1,7 @@
 == [Adopt-a-JSR] MVC 1.0
 
+image:https://badges.gitter.im/perujug/javaee8-mvc.svg[link="https://gitter.im/perujug/javaee8-mvc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
 * http://download.oracle.com/otndocs/jcp/mvc-1-edr2-spec/index.html[Specification]
 
 === Maven Dependency
